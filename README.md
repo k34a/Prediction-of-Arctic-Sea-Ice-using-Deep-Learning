@@ -12,10 +12,11 @@ Saksham Garg<sup>a</sup>, Divyanshi Gupta<sup>a</sup>, Mayuna Gupta<sup>a</sup>,
 
 ## Files
 
-Input SIC data <code>HadISST_ice dataset.nc.gz</code>, as retreived from Hadley centre website on October 19, 2020.
+Input SIC data <code>HadISST_ice dataset.nc.gz</code>, as retreived from [Hadley centre website](https://www.metoffice.gov.uk/hadobs/hadisst/data/download.html) on October 19, 2020.
 
 Code file <code>Code for all models.ipynb</code> contatins the codes for the entire year Neural network (NN), Convolutional Neural network (CNN), and Convolutional Long-Short Term Memory (ConvLSTM) models.
 It also contains the code for the ConvLSTM melting season model.
 
 Output files are contained in folders <code>Outputs for entire year models</code> and <code>Outputs for melting season models</code>.
 
+The code was written in Google Colab environment.
