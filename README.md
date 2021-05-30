@@ -19,4 +19,4 @@ It also contains the code for the ConvLSTM melting season model.
 
 Output files are contained in folders <code>Outputs for entire year models</code> and <code>Outputs for melting season models</code>.
 
-The code was written in Google Colab environment. To run in Google Colab, give permission to access Google Drive and add the input file to the runtime. After completion of the code, download output files from runtime for latter use.
+The code was written in Google Colab environment. Keras library and tensorflow framework were primarily used. To run in Google Colab, the permission to access the input files from your Google drive is required. After executing the code, you can download the generated output files from runtime for later use.
